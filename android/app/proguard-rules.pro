@@ -1,0 +1,4 @@
+-keep class com.example.dynamicmaterialthemesync.** { *; }
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
+-dontwarn com.squareup.moshi.**
