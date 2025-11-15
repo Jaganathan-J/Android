@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Theme.DynamicMaterialThemeSync" parent="android:Theme.Material.Light.NoActionBar">
-        <!-- We override with Compose Material3, so keep this minimal. -->
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-</resources>
