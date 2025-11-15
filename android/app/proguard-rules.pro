@@ -1,0 +1,6 @@
+-keep class dagger.hilt.** { *; }
+-keep class androidx.hilt.** { *; }
+-keep class com.squareup.moshi.** { *; }
+-keep class com.example.dynamictheme.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
