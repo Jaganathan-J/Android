@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DynamicThemeSync</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_source_title">Theme source</string>
+    <string name="theme_source_system_dynamic">System dynamic</string>
+    <string name="theme_source_remote">Remote JSON</string>
+    <string name="theme_source_local">Local JSON</string>
+    <string name="theme_source_status_unknown">Status unknown</string>
+    <string name="theme_sync_now">Sync now</string>
+    <string name="theme_color_title">Color</string>
+    <string name="theme_use_dynamic_color">Use dynamic color</string>
+    <string name="theme_use_dynamic_color_subtitle">Use system-derived colors where supported</string>
+    <string name="theme_color_preview">Preview</string>
+    <string name="theme_typography_title">Typography</string>
+    <string name="theme_typography_default_font">System default</string>
+    <string name="theme_typography_subtitle">From Theme JSON / Google Fonts</string>
+    <string name="theme_change">Change</string>
+    <string name="theme_icons_title">Icons</string>
+    <string name="theme_icons_style_label">Style: %1$s</string>
+    <string name="theme_icons_subtitle">Material Symbols style and axes</string>
+    <string name="theme_persistence_title">Persistence</string>
+    <string name="theme_reset_default">Reset to default</string>
+    <string name="theme_apply">Apply</string>
+</resources>
