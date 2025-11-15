@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-
-    <style name="Theme.DynamicMaterialThemeSync" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Material3 theme is provided by Compose at runtime -->
-    </style>
-
-</resources>
