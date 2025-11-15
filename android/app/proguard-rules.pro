@@ -1,0 +1,2 @@
+-keep class com.example.dynamicthemesync.** { *; }
+-dontwarn javax.annotation.**
