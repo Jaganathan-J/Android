@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DynamicMaterialThemeSync</string>
+    <string name="home_title">Dynamic Theme</string>
+    <string name="settings_title">Theme Settings</string>
+    <string name="profile_title">Profile Preview</string>
+    <string name="action_sync_theme">Sync Theme</string>
+    <string name="action_use_dynamic_color">Use dynamic color</string>
+    <string name="action_use_remote_theme">Use remote theme</string>
+    <string name="action_use_default_theme">Use default theme</string>
+</resources>
