@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-
-    <style name="Theme.DynamicMaterialThemeSync" parent="android:Theme.Material.Light.NoActionBar">
-        <!-- The actual theming is controlled by Compose MaterialTheme -->
-        <item name="android:windowBackground">@android:color/white</item>
-    </style>
-
-</resources>
