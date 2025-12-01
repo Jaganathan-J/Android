@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">LuxeMarket</string>
-    <string name="home_title">Discover Luxury</string>
-    <string name="search_hint">Search brands, vintage...</string>
-    <string name="retry">Retry</string>
-    <string name="error_generic">Something went wrong</string>
-</resources>
