@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.FitLife" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:statusBarColor">@color/midnight_blue</item>
-        <item name="android:windowBackground">@color/midnight_blue</item>
-    </style>
-</resources>
