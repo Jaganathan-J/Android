@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.AutoFlow" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="android:statusBarColor">#0A0A14</item>
-        <item name="android:windowLightStatusBar">false</item>
-    </style>
-</resources>
